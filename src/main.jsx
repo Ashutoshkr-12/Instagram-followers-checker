@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import { ThemeProvider } from './components/ui/theme-provider.jsx'
 import { SocialDataViewer } from './pages/Userinput.jsx'
-import Fileinstruction from './components/fileInstruction.jsx'
+import Fileinstruction from './pages/Fileinstruction.jsx'
 
 
 createRoot(document.getElementById('root')).render(
